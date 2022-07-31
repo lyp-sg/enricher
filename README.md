@@ -5,7 +5,7 @@
 java -jar  target/enricher-0.0.1-SNAPSHOT.jar
 ``` 
 
-#Code structure
+# Code structure
 
 * Controller
     * Entry point
